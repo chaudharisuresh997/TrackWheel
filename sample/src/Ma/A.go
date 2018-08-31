@@ -1,0 +1,5 @@
+package Ma
+
+func P() {
+
+}
